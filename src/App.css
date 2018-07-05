@@ -1,0 +1,9 @@
+.App {
+	padding: 0 30px;
+}
+
+.App__disclaimer {
+	position: absolute;
+	font-size: 20px;
+	bottom: 10px;
+}

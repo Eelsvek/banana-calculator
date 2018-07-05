@@ -1,0 +1,24 @@
+.Input {
+	display: flex;
+	flex-flow: row wrap;
+	margin-bottom: 20px;
+}
+
+.Input__label {
+	flex-basis: 100%;
+	font-size: 25px;
+}
+
+.Input__input {
+	border: none;
+	font-size: 16px;
+	padding-left: 10px;
+	height: 30px;
+	width: 300px;
+}
+
+.Input__error {
+	color: red;
+	margin-left: 10px;
+	font-size: 25px;
+}

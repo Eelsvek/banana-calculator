@@ -1,0 +1,9 @@
+.Results {
+	margin-top: 20px;
+	font-size: 30px;
+}
+
+.Results--bold {
+	font-weight: bold;
+	font-size: 40px;
+}

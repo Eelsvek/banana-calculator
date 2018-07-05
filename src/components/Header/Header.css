@@ -1,0 +1,10 @@
+.Header__title {
+	color: #996123;
+	font-size: 60px;
+	margin: 20px 0 10px 0;
+}
+
+.Header__subtitle {
+	font-size: 40px;
+	margin: 10px 0 20px 0;
+}

@@ -1,0 +1,10 @@
+.Banana__button {
+	border: none;
+	height: 40px;
+	width: 150px;
+	font-size: 25px;
+	font-family: Gaegu;
+	background: #996123;
+	color: white;
+	margin-top: 10px;
+}
