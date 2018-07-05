@@ -1,3 +1,5 @@
+Live application URL: http://banana-calculator.herokuapp.com/
+
 Coding Challenge for Currency Capital. Bootstrapped with create-react-app.
 
 Design and build a microservice (no need for UI or DB storage) that contains one REST API endpoint.
